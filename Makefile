@@ -1,3 +1,6 @@
+cat:
+	cat Makefile
+
 cpc:
 	go run ./cmd/cpc
 
